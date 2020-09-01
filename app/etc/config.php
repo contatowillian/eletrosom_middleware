@@ -5,6 +5,7 @@ return [
         'Magento_Directory' => 1,
         'Magento_Theme' => 1,
         'Magento_Backend' => 1,
+        'Innovation_HelloWorld' => 1,
         'Magento_Variable' => 1,
         'Magento_Eav' => 1,
         'Magento_AdminNotification' => 1,
@@ -200,7 +201,6 @@ return [
         'Magento_CatalogWidget' => 1,
         'Dotdigitalgroup_Email' => 1,
         'Magento_WishlistAnalytics' => 1,
-        'Mageplaza_HelloWorld' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1
     ]

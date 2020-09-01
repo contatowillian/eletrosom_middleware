@@ -1,5 +1,5 @@
 <?php
-namespace Mageplaza\HelloWorld\Controller\Index;
+namespace Innovation\MercadoLivre\Controller\Index;
 
 class Test extends \Magento\Framework\App\Action\Action
 {
@@ -15,7 +15,7 @@ class Test extends \Magento\Framework\App\Action\Action
 
 	public function execute()
 	{
-		echo "Hello World will teste";
+		echo "Hello World Mercado Livre";
 		exit;
 	}
 }
